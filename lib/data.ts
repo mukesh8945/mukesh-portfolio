@@ -133,7 +133,7 @@ export const projectsData = [
     imageUrl: jamandplayImg,
     githubLink:
       "https://github.com/mukesh8945/Project-Management-System?tab=readme-ov-file",
-    projectlink:
+    projectLink:
       "https://github.com/mukesh8945/Project-Management-System?tab=readme-ov-file",
   },
 ] as const;

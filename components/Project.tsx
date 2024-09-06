@@ -54,9 +54,7 @@ export default function Project({
           <div className=" my-6 flex items-center justify-start gap-3">
             <a
               target="_blank"
-              href={
-                githubLink === "" ? "https://github.com/mukesh8945" : githubLink
-              }
+              href={githubLink}
               className="bg-gray-900 text-white px-7 py-3 flex items-center gap-2 outline-none rounded-lg focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition"
             >
               Github
